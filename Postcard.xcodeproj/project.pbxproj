@@ -13,6 +13,8 @@
 		83800B0319CF24A5009EA494 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 83800B0219CF24A5009EA494 /* Images.xcassets */; };
 		83800B0619CF24A5009EA494 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 83800B0419CF24A5009EA494 /* LaunchScreen.xib */; };
 		83800B1219CF24A5009EA494 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83800B1119CF24A5009EA494 /* PostcardTests.swift */; };
+		83800B1C19CF2AA7009EA494 /* landscape.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 83800B1B19CF2AA7009EA494 /* landscape.jpg */; };
+		83800B1E19CF2DE5009EA494 /* AlbertEinsteinStamp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 83800B1D19CF2DE5009EA494 /* AlbertEinsteinStamp.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		83800B0B19CF24A5009EA494 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		83800B1019CF24A5009EA494 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		83800B1119CF24A5009EA494 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		83800B1B19CF2AA7009EA494 /* landscape.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = landscape.jpg; sourceTree = "<group>"; };
+		83800B1D19CF2DE5009EA494 /* AlbertEinsteinStamp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AlbertEinsteinStamp.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +111,8 @@
 		83800B0F19CF24A5009EA494 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				83800B1D19CF2DE5009EA494 /* AlbertEinsteinStamp.jpg */,
+				83800B1B19CF2AA7009EA494 /* landscape.jpg */,
 				83800B1019CF24A5009EA494 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -194,7 +200,9 @@
 			files = (
 				83800B0119CF24A5009EA494 /* Main.storyboard in Resources */,
 				83800B0619CF24A5009EA494 /* LaunchScreen.xib in Resources */,
+				83800B1E19CF2DE5009EA494 /* AlbertEinsteinStamp.jpg in Resources */,
 				83800B0319CF24A5009EA494 /* Images.xcassets in Resources */,
+				83800B1C19CF2AA7009EA494 /* landscape.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
